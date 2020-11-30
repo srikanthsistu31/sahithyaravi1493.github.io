@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Openml topic model"
+excerpt: "Short description of portfolio item number 1<br/><img href='https://github.com/sahithyaravi1493/openml-topic-model'>"
 collection: portfolio
 ---
 
