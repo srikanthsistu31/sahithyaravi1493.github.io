@@ -10,8 +10,8 @@ venue: 'preprint'
 paperurl: 'http://academicpages.github.io/files/ViDi.pdf'
 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We attempt to make covid severity classification more explainable by a descriptive clustering method.
+This is a work in progress
 
-[Download paper here](http://academicpages.github.io/files/ViDi.pdf)
+[Download preprint here](http://academicpages.github.io/files/ViDi.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
