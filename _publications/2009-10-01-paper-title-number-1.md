@@ -13,5 +13,5 @@ paperurl: 'https://arxiv.org/pdf/2011.14871.pdf'
 We attempt to make covid severity classification more explainable by a descriptive clustering method.
 This is a work in progress
 
-[Download preprint here](https://arxiv.org/pdf/2011.14871.pdf)
+[Download preprint here](https://arxiv.org/pdf/2011.14871.pd)
 
