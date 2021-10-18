@@ -9,8 +9,7 @@ paperurl: 'https://www.jmlr.org/papers/volume22/19-920/19-920.pdf'
 
 ---
 
-
-<!-- [Download paper here](http://academicpages.github.io/files/ViDi.pdf) -->
+[Download paper here](https://www.jmlr.org/papers/volume22/19-920/19-920.pdf) -->
 
 
 
