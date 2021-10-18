@@ -7,7 +7,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Visual descriptive clustering for covid-19 chest x-rays'
 date: 2020-10-30
 venue: 'preprint'
-paperurl: 'https://www.jmlr.org/papers/volume22/19-920/19-920.pdf'
+paperurl: 'https://arxiv.org/pdf/2011.14871.pdf'
 
 ---
 We attempt to make covid severity classification more explainable by a descriptive clustering method.
